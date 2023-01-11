@@ -10,7 +10,7 @@
 
 ## Product Guides
 
-* [🏁 Installation](product-guides/installation/README.md)
+* [🏁 Installation](product-guides/page-1.md)
   * [Via Docker](product-guides/installation/via-docker.md)
   * [Via Composer](product-guides/installation/via-composer.md)
 * [🛠 Configuration](product-guides/configuration/README.md)
