@@ -10,4 +10,4 @@
 
 ## Product Guides
 
-* [Page 1](product-guides/page-1.md)
+* [🏁 Installation](product-guides/installation.md)
