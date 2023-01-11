@@ -10,4 +10,21 @@
 
 ## Product Guides
 
-* [🏁 Installation](product-guides/installation.md)
+* [🏁 Installation](product-guides/installation/README.md)
+  * [Via Docker](product-guides/installation/via-docker.md)
+  * [Via Composer](product-guides/installation/via-composer.md)
+* [🛠 Configuration](product-guides/configuration/README.md)
+  * [Host Configuration](product-guides/configuration/host-configuration.md)
+  * [Directory Permissions](product-guides/configuration/directory-permissions.md)
+* [🎮 CLI Commands](product-guides/cli-commands/README.md)
+  * [Asset Management](product-guides/cli-commands/asset-management.md)
+  * [View Management](product-guides/cli-commands/view-management.md)
+  * [Cache Management](product-guides/cli-commands/cache-management.md)
+  * [HTTP Cache](product-guides/cli-commands/http-cache.md)
+* [💻 Application Commands](product-guides/application-commands.md)
+
+## Addons
+
+* [🔌 Modules](addons/modules.md)
+* [➕ Extensions](addons/extensions.md)
+* [🏫 Themes](addons/themes.md)
