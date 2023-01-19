@@ -25,6 +25,9 @@
 
 ## Addons
 
-* [🔌 Modules](addons/modules.md)
+* [🔌 Modules](addons/modules/README.md)
+  * [Notifications](addons/modules/notifications.md)
+  * [Advs](addons/modules/advs.md)
+  * [Categories](addons/modules/categories.md)
 * [➕ Extensions](addons/extensions.md)
 * [🏫 Themes](addons/themes.md)
