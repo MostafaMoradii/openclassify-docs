@@ -25,8 +25,6 @@ Openclassify is an open-source project based on Laravel that comes with highly e
 
 > Openclassify support 22+ languages. If you'd like to contribute translations, please check out our [Crowdin](https://crowdin.com/project/openclassify) project.
 
-​
-
 
 
 {% embed url="https://youtu.be/UXpzIKGbiSc" %}
