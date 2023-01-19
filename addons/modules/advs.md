@@ -1,3 +1,7 @@
+---
+description: A pro advertising management system.
+---
+
 # Advs
 
 ### GitHub Repository
