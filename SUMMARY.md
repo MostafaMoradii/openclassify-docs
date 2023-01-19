@@ -23,11 +23,11 @@
   * [HTTP Cache](product-guides/cli-commands/http-cache.md)
 * [💻 Application Commands](product-guides/application-commands.md)
 
-## Addons
+## Packages
 
-* [🔌 Modules](addons/modules/README.md)
-  * [Notifications](addons/modules/notifications.md)
-  * [Advs](addons/modules/advs.md)
-  * [Categories](addons/modules/categories.md)
-* [➕ Extensions](addons/extensions.md)
-* [🏫 Themes](addons/themes.md)
+* [🔌 Modules](packages/modules/README.md)
+  * [Notifications](packages/modules/notifications.md)
+  * [Advs](packages/modules/advs.md)
+  * [Categories](packages/modules/categories.md)
+* [➕ Extensions](packages/extensions.md)
+* [🏫 Themes](packages/themes.md)

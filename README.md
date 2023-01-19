@@ -1,7 +1,7 @@
 ---
 description: >-
   Openclassify is a modular and advanced open-source marketplace platform built
-  with Laravel.
+  with Laravel. (edited)
 ---
 
 # 👋 Welcome to Openclassify
