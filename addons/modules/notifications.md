@@ -2,8 +2,6 @@
 
 With this module, you can send Emails and SMS. Post announcements, updates, status changes, etc. It provides the task of notifying the user by e-mail.
 
-
-
 ### Repository
 
 {% embed url="https://gitlab.com/visiosoft/openclassify/notifications-module" %}
