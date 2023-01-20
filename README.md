@@ -25,13 +25,11 @@ Openclassify is an open-source project based on Laravel that comes with highly e
 
 > Openclassify support 22+ languages. If you'd like to contribute translations, please check out our [Crowdin](https://crowdin.com/project/openclassify) project.
 
+​
+
 
 
 {% embed url="https://youtu.be/UXpzIKGbiSc" %}
-
-## Table of contents
-
-* [👋 Welcome to Openclassify](./)
 
 ### overview
 
@@ -41,7 +39,7 @@ Openclassify is an open-source project based on Laravel that comes with highly e
 
 ### Product Guides
 
-* [🏁 Installation](product-guides/page-1.md)
+* [🏁 Installation](product-guides/installation/)
   * [Via Docker](product-guides/installation/via-docker.md)
   * [Via Composer](product-guides/installation/via-composer.md)
 * [🛠 Configuration](product-guides/configuration/)
@@ -56,9 +54,6 @@ Openclassify is an open-source project based on Laravel that comes with highly e
 
 ### Addons
 
-* [🔌 Modules](addons/modules/)
-  * [Notifications](addons/modules/notifications.md)
-  * [Advs](addons/modules/advs.md)
-  * [Categories](addons/modules/categories.md)
+* [🔌 Modules](addons/modules.md)
 * [➕ Extensions](addons/extensions.md)
 * [🏫 Themes](addons/themes.md)
