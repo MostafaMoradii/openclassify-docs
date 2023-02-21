@@ -1,31 +1,24 @@
-# Notifications
+# Notification Modülü / notifications module
 
-With this module, you can send Emails and SMS. Post announcements, updates, status changes, etc. It provides the task of notifying the user by e-mail.
+With this module, you can send mail and sms. Post announcements, updates, status changes, etc.
+It provides the task of notifying the user by e-mail.
 
-### Repository
+Bu modül ile mail ve sms gönderimi yapabilirsiniz.İlan verme ,Güncelleme ,Durum değişikliği, vb işlemlerin 
+mail ile kullanıcıya bildirilmesi görevini sağlar.
 
-{% embed url="https://gitlab.com/visiosoft/openclassify/notifications-module" %}
+Sistem Event yapısı ile çalışmaktadır.Oluşturulan bir event i yakalayıp içeriğini okuyarak işleme devam eder.
 
-### Dependencies
 
-* [Advs module](broken-reference)
+#Önyüz/Front End
+-
 
-### Installation
+#Admin Panel
+Modül ayarları kısmından mesaj içeriklerini düzenlemenize olanak sağlanmaktadır.
 
-clone the repository under `addons/default/visiosoft` directory of your project
 
-```
-php artisan addon:install notifications --seed
-```
+##Modül Gereklilikleri/Module Requirements
+- ADVS Modülü
+- USER Modülü
 
-Reinstall&#x20;
-
-```
-php artisan addon:reinstall notifications --seed
-```
-
-Uninstall
-
-```
-php artisan addon:uninstall notifications
-```
+##
+support@visiosoft.com.tr
