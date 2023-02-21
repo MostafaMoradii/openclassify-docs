@@ -29,6 +29,5 @@
     * [Notifications](addons/modules/notifications.md)
     * [Advs](addons/modules/advs.md)
     * [Categories](addons/modules/categories.md)
-    * [Notifications](addons/modules/testModule.md)
 * [🏫 Extensions](addons/extensions.md)
 * [🏫 Themes](addons/themes.md)
